@@ -1,0 +1,17 @@
+C:\C#\TesteLoginGUI\TesteLoginGUI\bin\Debug\net6.0-windows\TesteLoginGUI.exe
+C:\C#\TesteLoginGUI\TesteLoginGUI\bin\Debug\net6.0-windows\TesteLoginGUI.deps.json
+C:\C#\TesteLoginGUI\TesteLoginGUI\bin\Debug\net6.0-windows\TesteLoginGUI.runtimeconfig.json
+C:\C#\TesteLoginGUI\TesteLoginGUI\bin\Debug\net6.0-windows\TesteLoginGUI.dll
+C:\C#\TesteLoginGUI\TesteLoginGUI\bin\Debug\net6.0-windows\TesteLoginGUI.pdb
+C:\C#\TesteLoginGUI\TesteLoginGUI\obj\Debug\net6.0-windows\TesteLoginGUI.csproj.AssemblyReference.cache
+C:\C#\TesteLoginGUI\TesteLoginGUI\obj\Debug\net6.0-windows\TesteLoginGUI.Form1.resources
+C:\C#\TesteLoginGUI\TesteLoginGUI\obj\Debug\net6.0-windows\TesteLoginGUI.csproj.GenerateResource.cache
+C:\C#\TesteLoginGUI\TesteLoginGUI\obj\Debug\net6.0-windows\TesteLoginGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\TesteLoginGUI\TesteLoginGUI\obj\Debug\net6.0-windows\TesteLoginGUI.AssemblyInfoInputs.cache
+C:\C#\TesteLoginGUI\TesteLoginGUI\obj\Debug\net6.0-windows\TesteLoginGUI.AssemblyInfo.cs
+C:\C#\TesteLoginGUI\TesteLoginGUI\obj\Debug\net6.0-windows\TesteLoginGUI.csproj.CoreCompileInputs.cache
+C:\C#\TesteLoginGUI\TesteLoginGUI\obj\Debug\net6.0-windows\TesteLoginGUI.dll
+C:\C#\TesteLoginGUI\TesteLoginGUI\obj\Debug\net6.0-windows\refint\TesteLoginGUI.dll
+C:\C#\TesteLoginGUI\TesteLoginGUI\obj\Debug\net6.0-windows\TesteLoginGUI.pdb
+C:\C#\TesteLoginGUI\TesteLoginGUI\obj\Debug\net6.0-windows\TesteLoginGUI.genruntimeconfig.cache
+C:\C#\TesteLoginGUI\TesteLoginGUI\obj\Debug\net6.0-windows\ref\TesteLoginGUI.dll
